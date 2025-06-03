@@ -1,14 +1,14 @@
-<h1 align="center">Hi! I'm Mirzokhidbek</h1>
+<h1 align="center"> I'm Mirzokhidbek</h1>
 
-- 🌱 Seoul-based Full-Stack'er from Uzbekistan  
-- 🗨 Interested in Web and Mobile Development  
-- 📫 Email: [mirodev@gmail.com](mailto:mirodev@gmail.com)  
+- 🌱From Uzbekistan
+- 🗨Frontend Web developer  
+- 📫 Email:mirodev@gmail.com 
 
----
+ 
 
-### 💻 Tech Stack:
+ 
 
-<p align="left">
+<p align="center" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
  

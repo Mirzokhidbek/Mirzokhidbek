@@ -1,13 +1,6 @@
 <h1 align="center"> I'm Mirzokhidbek</h1>
 
-- 🌱From Uzbekistan
-- 🗨Frontend Web developer  
-- 📫 Email:mirodev@gmail.com 
-
- 
-
- 
-
+  
 <p align="center" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>

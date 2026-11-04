@@ -1,111 +1,74 @@
-# Mirzohid
 
-**Full-Stack Developer | AI Engineer**
+<div align="center">
 
-A software engineer focused on building scalable web applications, robust backend architectures, and AI-powered solutions.
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0f172a,100:2563eb&text=MIRZOHID&fontColor=ffffff&fontSize=65&fontAlignY=45&desc=FULL-STACK%20ENGINEER%20%7C%20AI%20ENGINEER&descAlignY=65&animation=fadeIn" width="100%" />
 
-[About Me](#about-me) · [Technical Skills](#technical-skills) · [Engineering Interests](#engineering-interests) · [Featured Projects](#featured-projects) · [GitHub Statistics](#github-statistics) · [Contact](#contact-information)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%26+LLM+Engineer;Building+Scalable+Systems;Turning+Ideas+Into+Products" />
 
-## About Me
+</div>
 
-I design and build end-to-end software systems that combine modern web engineering with production-grade artificial intelligence. My work centers on type-safe full-stack applications, modular backend services, and deterministic AI workflows capable of handling complex reasoning and retrieval tasks at scale.
+## `01` — About Me
 
-```text
-+-----------------------------------------------------------------------+
-|                        CLIENT & INTERFACE LAYER                       |
-|                   React  ·  Next.js  ·  Tailwind CSS                  |
-+-----------------------------------+-----------------------------------+
-                                    |
-                                    v
-+-----------------------------------------------------------------------+
-|                      APPLICATION & SERVICE LAYER                      |
-|               Node.js  ·  NestJS  ·  Express.js  ·  FastAPI           |
-+-----------------+-----------------------------------+-----------------+
-                  |                                   |
-                  v                                   v
-+-----------------------------------+   +-------------------------------+
-|     AI ORCHESTRATION & AGENTS     |   |     DATA & INFRASTRUCTURE     |
-|   LangChain · LangGraph · RAG     |   |  PostgreSQL · MongoDB · Redis |
-|   OpenAI · Claude · Gemini APIs   |   |  Vector DBs · Docker · Linux  |
-+-----------------------------------+   +-------------------------------+
+```typescript
+const mirzohid = {
+  role: "Full-Stack & AI Engineer",
+  location: "South Korea",
+  languages: ["Uzbek", "English", "Korean"],
+  expertise: [
+    "Backend Architecture",
+    "AI Agents & LLMs",
+    "RAG Pipelines",
+    "Distributed Systems"
+  ],
+  currentlyBuilding: "AI-powered applications",
+  mindset: "Build. Innovate. Scale."
+};
 ```
 
-## Technical Skills
+## `02` — Tech Stack
 
-| Domain | Core Technologies | Frameworks & Platforms | Infrastructure & Tooling |
-| :--- | :--- | :--- | :--- |
-| **Languages** | TypeScript, JavaScript | Python | Git, Linux |
-| **Frontend** | React, Next.js | Tailwind CSS | SSR, CSR, Web APIs |
-| **Backend** | Node.js, FastAPI | NestJS, Express.js | REST, Microservices |
-| **AI & ML** | OpenAI, Claude, Gemini | LangChain, LangGraph | RAG Pipelines, Vector DBs |
-| **Data & Ops** | PostgreSQL, MongoDB | Redis | Docker, Linux |
+<div align="center">
 
-<details>
-<summary><strong>View Complete Technology Inventory</strong></summary>
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nestjs,nodejs,fastapi,postgres,mongodb,redis,docker,linux,git,github&perline=7" />
 
-* **Languages:** `TypeScript`, `JavaScript`, `Python`
-* **Frontend Engineering:** `React`, `Next.js`, `Tailwind CSS`
-* **Backend Architecture:** `Node.js`, `NestJS`, `Express.js`, `FastAPI`
-* **AI & Machine Learning:** `OpenAI API`, `Claude API`, `Gemini API`, `LangChain`, `LangGraph`, `RAG Pipelines`, `Vector Databases`
-* **Databases & Infrastructure:** `PostgreSQL`, `MongoDB`, `Redis`, `Docker`, `Linux`, `Git`
+</div>
 
-</details>
+## `03` — GitHub Analytics
 
-## Engineering Interests
+<div align="center">
 
-* **Scalable Backend Systems:** Designing modular service architectures, asynchronous task processing, and high-throughput APIs using NestJS, Express.js, and FastAPI.
-* **Production AI & Agentic Workflows:** Building stateful multi-step reasoning graphs with LangGraph, LangChain, and foundation model APIs (OpenAI, Claude, Gemini).
-* **Retrieval-Augmented Generation (RAG):** Engineering low-latency document ingestion, semantic chunking, hybrid search, and vector database indexing pipelines.
-* **Data Modeling & Caching:** Optimizing relational schemas in PostgreSQL, document stores in MongoDB, and in-memory caching layers with Redis.
-* **Full-Stack Type Safety:** Enforcing strict end-to-end contracts across Next.js frontends and Node.js/Python backends within containerized Docker environments.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-## Featured Projects
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-| Project | Category | Primary Stack | Source |
-| :--- | :--- | :--- | :--- |
-| **Home Design Platform** | Full-Stack Web | Next.js, TypeScript, Node.js, PostgreSQL | [Repository](https://github.com/YOUR_GITHUB_USERNAME/home-design-platform) |
-| **CarPort** | Automotive Marketplace | React, NestJS, PostgreSQL, Redis | [Repository](https://github.com/YOUR_GITHUB_USERNAME/carport) |
-| **Travel Journal Application** | Web Application | Next.js, Tailwind CSS, Express.js, MongoDB | [Repository](https://github.com/YOUR_GITHUB_USERNAME/travel-journal) |
-| **AI-Powered Applications** | AI & LLM Systems | Python, FastAPI, LangChain, LangGraph | [Repository](https://github.com/YOUR_GITHUB_USERNAME/ai-applications) |
+<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
-<details>
-<summary><strong>Architectural Specifications & Project Breakdowns</strong></summary>
+</div>
 
-### 1. Home Design Platform
-An interactive web platform engineered for browsing, customizing, and managing architectural and interior design workflows.
-* **Focus:** Responsive rendering, structured asset management, and relational data modeling.
-* **Stack:** `TypeScript`, `React`, `Next.js`, `Tailwind CSS`, `Node.js`, `PostgreSQL`
+## `04` — Contribution Activity
 
-### 2. CarPort – Automotive Import Marketplace
-A specialized marketplace platform built to streamline cross-border vehicle sourcing, specification filtering, and import logistics tracking.
-* **Focus:** Complex search indexing, structured inventory catalogs, and transactional backend APIs.
-* **Stack:** `TypeScript`, `Next.js`, `NestJS`, `PostgreSQL`, `Redis`, `Docker`
+<div align="center">
 
-### 3. Travel Journal Application
-A full-stack journaling platform designed for documenting travel itineraries, geolocation logs, and media-rich personal entries.
-* **Focus:** Clean user experience, document-oriented storage, and fast content delivery.
-* **Stack:** `JavaScript`, `TypeScript`, `React`, `Express.js`, `MongoDB`, `Tailwind CSS`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
 
-### 4. AI-Powered Applications
-A suite of intelligent software solutions integrating foundation models with custom retrieval pipelines and multi-agent orchestration.
-* **Focus:** Context-aware retrieval (RAG), semantic search over vector databases, and deterministic agent routing.
-* **Stack:** `Python`, `FastAPI`, `LangChain`, `LangGraph`, `OpenAI API`, `Claude API`, `Gemini API`, `Vector Databases`
+</div>
 
-</details>
+## `05` — Connect With Me
 
-## GitHub Statistics
+<div align="center">
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=false&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=0969da" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=24292f&text_color=57606a" alt="Most Used Languages" width="49%" />
-</p>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-light&bg_color=ffffff&color=24292f&line=0969da&point=24292f&area=true&hide_border=false" alt="Contribution Activity Graph" width="99%" />
-</p>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-## Contact Information
+</div>
 
-* **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-* **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_HANDLE](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" />
+
+</div>

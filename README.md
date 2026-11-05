@@ -1,14 +1,11 @@
 <!-- Header -->
 <div align="center">
 
-```
-// software engineer  
-```
-
 # Mirzokhidbek Nurmukhammadov
 
-**Building production web platforms, real-time systems, and AI-powered products.**  
- 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Software+Engineer;Production+web+platforms;Real-time+systems;AI-powered+products" alt="Software engineer building production web platforms, real-time systems, and AI-powered products" />
+
+**Building production web platforms, real-time systems, and AI-powered products.**
 
 </div>
 

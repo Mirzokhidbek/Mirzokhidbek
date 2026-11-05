@@ -35,14 +35,13 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-![GitHub Stats](https://githubcard.com/mirzokhidbek.svg?d=csenRcjA)
+![GitHub Stats](https://githubcard.com/Mirzokhidbek.svg?d=csenRcjA)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thebkht&theme=github-dark-blue&hide_border=true&border_radius=6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mirzokhidbek&theme=github-dark-blue&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
-![Top Languages](https://githubcard.com/mirzokhidbek.svg?d=CS7GAV_R)
+![Top Languages](https://githubcard.com/Mirzokhidbek.svg?d=CS7GAV_R)
 
 </div>
 
